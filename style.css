@@ -1,0 +1,18 @@
+body{
+    background-color: #EAD8B1;
+}
+
+#header{
+    background-color: #6A9AB0;
+}
+.knewave-regular {
+    font-family: "Knewave", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .profilepic{
+
+        border-radius: 50%;
+
+  }
